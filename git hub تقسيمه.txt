@@ -1,6 +1,2 @@
 1- model classes + login GUI +  part of interfaces(switchLoginInterface)+SwichProcess class+message+111111111111111
 2- user class  + GoodResultForUser + part of Arguments(user part)"no interfaces no gui"
-3- Product class + part of interfaces(switchToProductInterface, switchUserInterface) + userGui + productGui
-4- TotalPrice class + Purcheses class + part of Arguments(جزء الشراء) + DataLnJTable class(اول اتنين ميثود) + DataLnView class(ShowDataInJTable) + PurchesesGui + ReportOfPurchaseGui + part of interfaces(switchToPurchesesGui, switchReportOfPurchaseGui)
-5- Supplier class (getAllSupplier(لسه متعملتش)) + part of interfaces(switchToSupplierInterface)  + SupplierGui
-6- AdminGui + impliment method(show all product) in Product class + Edit_UserdataGui
